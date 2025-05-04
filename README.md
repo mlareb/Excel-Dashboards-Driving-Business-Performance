@@ -12,6 +12,8 @@ Statistical Modeling:
 Constructed a Month-on-Month table utilizing SUMIFS function, facilitating in-depth examination of key metrics like orders, revenue, CPC, CTR, and conversion rates.
 Interactive Dashboard:
 Crafted an intuitive dashboard interface empowered with slicers, providing users with dynamic filtering capabilities to explore and interpret data effortlessly. This project demonstrates proficiency in Excel data manipulation, visualization, and dashboard creation, essential for informed decision-making and strategic planning in the realm of Management Information Systems (MIS).
+![image](https://github.com/user-attachments/assets/fa29faeb-573c-442c-9c90-b6c60a52ecd4)
+
 
 
 IMPORTANCE OF THE PROJECT
